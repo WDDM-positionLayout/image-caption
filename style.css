@@ -1,0 +1,43 @@
+
+body {
+    background-color: #ddd;
+    margin: 20px;
+    font: 1.2em system-ui;
+  }
+  
+  h2 {
+      font-weight: 700;
+  }
+  
+  .photo {
+    max-width: 100%;
+    margin: 0;
+    position: relative;
+    display: block;
+    
+  }
+  
+  .genre {
+    position: relative;
+    margin: 0;
+    margin-bottom: 20px;
+  
+  }
+  
+  .caption {
+    color: #fff;
+    background-color: black;
+    opacity: 0.7;
+    display: flex;
+      align-items: center;
+      justify-content: center;
+    position: absolute;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    line-height: 1.5em;
+    font-size: 1.5em;
+   
+  }
+  
